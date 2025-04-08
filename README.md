@@ -6,7 +6,7 @@ This repository demonstrates how to deploy the 2048 game on AWS Elastic Beanstal
 Created a repository on GitHub to store the project files.
 
 2. Clone the Repository to Your Computer
-Clone the repository to your local machine using the following command:
+Clone the repository to your local machine using the following command on  WIndows powershell:
 
 git clone git@github.com:Hajixhayjhay/2048-games.git
 
