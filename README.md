@@ -8,7 +8,7 @@ Created a repository on GitHub to store the project files.
 2. Clone the Repository to Your Computer
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/hajixhayjhay/2048-game.git
+git clone git@github.com:Hajixhayjhay/2048-games.git
 
 3. Open the Repository in Visual Studio Code
 Open the cloned repository in Visual Studio Code to start working on the project.
